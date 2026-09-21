@@ -1,2 +1,1 @@
-# .github
-Heyday Money — Your Prime, Defined.
+# Heyday Money — Your Prime, Defined.

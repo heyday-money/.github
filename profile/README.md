@@ -1,5 +1,7 @@
 <div align="center">
+
 ![Heyday Money](https://raw.githubusercontent.com/heyday-money/.github/main/profile/heyday-money.png)
+  
 # Heyday Money
 ### Your Prime, Defined.
 

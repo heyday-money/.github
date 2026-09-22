@@ -7,6 +7,6 @@
 
 Open-source tools to understand your money and shape what comes next.
 
-[Website](https://heyday.money) · [Explore Heyday](https://github.com/heyday-money/heyday) · [Get involved](https://github.com/heyday-money/heyday/issues)
+[Website](https://heyday.money) · [Explore Heyday](https://github.com/heyday-money/heyday) · [Request a Feature](https://github.com/orgs/heyday-money/discussions)  · [Contribute](https://github.com/heyday-money/heyday/issues)
 
 </div>
